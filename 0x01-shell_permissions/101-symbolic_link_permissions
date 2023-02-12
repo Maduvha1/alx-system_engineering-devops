@@ -1,2 +1,2 @@
-#!/bin/bash
-chow vincent staff_hello
+#!/bin/bash 
+vincent staff
